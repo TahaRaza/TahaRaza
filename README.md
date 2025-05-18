@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Hasnain Raza</h1>
 <h3 align="center">A passionate Computer Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Crypto Price Predictor](https://github.com/TahaRaza/crypto-price-prediction)  
+- 🔭 I’m currently working on [Mobile App Development]()  
 - 🌱 I’m currently learning **Web Development, AI, and App Development**  
 - 👯 I’m looking to collaborate on [Crypto Price Predictor](https://github.com/TahaRaza/crypto-price-prediction)  
 - 💬 Ask me about **AI, Machine Learning, and App & Web Development**  
